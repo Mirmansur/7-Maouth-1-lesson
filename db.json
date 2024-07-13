@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Mirmansur",
+      "age": "21"
+    },
+    {
+      "id": 2,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 3,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 4,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 5,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 6,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 7,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 8,
+      "name": "Ilyos Suyunov",
+      "age": "21"
+    },
+    {
+      "id": 9,
+      "name": "Ilyos Suyunov",
+      "age": "18"
+    },
+    {
+      "id": 10,
+      "name": "Ilyos Suyunov",
+      "age": "18"
+    }
+  ]
+}
